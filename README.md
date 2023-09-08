@@ -2,7 +2,7 @@
 
 - :telescope: I’m performing R&D as a Software Researcher. Current topics are developing network management protocols, distributed systems, and their application in space!
 - :seedling: Picking up Rust, because sometimes C++ is too unsafe of a hammer.
-- :mailbox: Rech me at [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/montgomerydev/)
+- :mailbox: Reach me at [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/montgomerydev/)
 - :zap: If a plant is nyctanthous, they're members of the genus Nyctanthes and bloom at night. They're native to South Asia, and one example is the [Night-Blooming Jasmine](https://commons.wikimedia.org/wiki/File:Shiuli_phool_-_panoramio.jpg#/media/File:Shiuli_phool_-_panoramio.jpg)
 
 <!--
